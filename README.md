@@ -1,4 +1,9 @@
 # Cardiovascular-Disease-Prediction
+
+Problem statement:
+
+Cardiovascular diseases are the leading cause of death globally. It is therefore necessary to identify the causes and develop a system to predict heart attacks in an effective manner. 
+
 1.Preliminary analysis:
 
   a.	Perform preliminary data inspection and report the findings on the structure of the data, missing values, duplicates, etc.
